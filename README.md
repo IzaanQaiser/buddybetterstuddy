@@ -321,36 +321,12 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🤝 **Contact**
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Izaan Qaiser**
 
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [GitHub](https://github.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
-
----
-
-*"Transforming study habits through intelligent technology and modern web development practices."*
-
----
-
-## 🏆 **Recruiter Highlights**
-
-### **Why This Project Stands Out**
-- **Real-world Impact**: Solves actual productivity problems for students
-- **Technical Depth**: Demonstrates mastery of Chrome extension development
-- **Modern Practices**: Uses latest web standards and security measures
-- **Production Ready**: Clean, documented code ready for deployment
-- **Scalable Architecture**: Designed for future enhancements and growth
-
-### **Skills Demonstrated**
-- ✅ Chrome Extension Development (Manifest V3)
-- ✅ Advanced JavaScript (ES6+, Async/Await, Event Handling)
-- ✅ Modern CSS3 (Flexbox, Animations, Responsive Design)
-- ✅ Chrome APIs Integration (Tabs, Storage, Content Scripts)
-- ✅ Security Implementation (CSP, Permissions, Input Validation)
-- ✅ User Experience Design (Accessibility, Usability, Performance)
-- ✅ Project Architecture (Modular Design, Error Handling, Documentation)
+- [Email](mailto:iqvention@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/izaanq/)
+- [Website](https://izaanqaiser.github.io/personal-website/)
+- [GitHub](https://github.com/IzaanQaiser)
 
 ---
 
